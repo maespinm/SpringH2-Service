@@ -1,4 +1,4 @@
-package model;
+package com.example.microsvc_h2.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Column;
